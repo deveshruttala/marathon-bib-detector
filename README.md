@@ -15,3 +15,11 @@ Also the use of Tesseract ocr can be used to detect the image number after yolo 
 to install , run all the documents one after the other , else upload the files in the G-drive dir/../bib-project
 and upload the dataset in RBNR upload the yolo model and test and train model 
 
+
+References 
+
+https://github.com/ayoubdya/marathon_bib_number_detector
+https://github.com/ManuelLeitner/bib-number-detection
+https://github.com/Lwhieldon/BibObjectDetection
+
+
